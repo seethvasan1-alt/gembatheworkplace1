@@ -138,7 +138,7 @@ export default function Navbar() {
             href="/"
             className="text-xl font-bold tracking-tight text-primary transition-colors duration-300 dark:text-secondary"
           >
-            GEMA
+            GEMBA THE WORKPLACE
           </Link>
 
           {/* Desktop navigation */}

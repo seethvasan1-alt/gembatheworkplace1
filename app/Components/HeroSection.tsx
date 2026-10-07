@@ -37,7 +37,7 @@ const trustBadges = [
   },
   {
     label: 'AS 9100D',
-    description: 'Aerospace Quality',
+    description: 'Aerospace  and  Defense Quality',
     icon: (
       <svg viewBox="0 0 72 32" className="h-7 w-auto" fill="currentColor">
         <text x="0" y="24" fontSize="11" fontWeight="700"
